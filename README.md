@@ -75,13 +75,13 @@
 * Seule une variable temporaire est utilisée pour effectuer les échanges, ce qui respecte la contrainte de mémoire supplémentaire **O(1)**.
 * Chaque élément de la matrice est parcouru un nombre limité de fois, donc la complexité est **O(N²)**.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183400.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 195535.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 195549.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 195557.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 195647.png" />
 
 
 # Exercice 6 — Fenêtre glissante : nombre de valeurs distinctes
@@ -96,11 +96,10 @@
 * La solution respecte les contraintes en utilisant uniquement des **boucles et des tableaux**, sans `Set` ni `Map`.
 * La complexité est **O(n + MAXV)** et la mémoire supplémentaire est **O(MAXV)**, avec `MAXV = 100000`.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183500.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 195703.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 195716.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 195722.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
 
