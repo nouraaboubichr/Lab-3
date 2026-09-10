@@ -93,4 +93,53 @@ public class Tableaux {
 
         return resultat;
     }
+    public static void main(String[] args) {
+
+        double[][] t1 = {
+            {1, 2, 3},
+            {4, 5, 6},
+            {7, 8, 9}
+        };
+
+        double[][] t2 = {
+            {10, 20, 30},
+            {40, 50, 60},
+            {70, 80, 90}
+        };
+
+       
+        System.out.println("Tableau t1 :");
+        Tableaux.affiche(t1);
+
+        System.out.println();
+
+      
+        System.out.println("t1 est régulier : "
+                + Tableaux.regulier(t1));
+
+        System.out.println();
+
+        
+        double[] sommes = Tableaux.sommeLignes(t1);
+
+        System.out.println("Somme des lignes :");
+
+        for (int i = 0; i < sommes.length; i++) {
+            System.out.println("Ligne " + i + " : " + sommes[i]);
+        }
+
+        System.out.println();
+
+        
+        double[][] resultat = Tableaux.somme(t1, t2);
+
+        System.out.println("Somme de t1 + t2 :");
+
+        if (resultat != null) {
+            Tableaux.affiche(resultat);
+        } else {
+            System.out.println("Les tableaux ne peuvent pas être additionnés.");
+        }
+    }
 }
+
