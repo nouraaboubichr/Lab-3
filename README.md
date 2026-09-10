@@ -7,11 +7,10 @@
 * Pour obtenir une division réelle en Java, on utilise `1.0 / i` plutôt que `1 / i`.
 * La complexité de cette solution est **O(n)**.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 191849.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 191913.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
 
 # Exercice 2 — Triangle isocèle d’étoiles
 
@@ -22,13 +21,9 @@
 * La dernière ligne ne contient aucun espace au début et s’affiche donc directement sur le bord gauche de l’écran.
 * La complexité est **O(n²)**, car le nombre total de caractères affichés est proportionnel à `n²`.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183100.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 192108.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 192130.png" />
 
 
 # Exercice 3 — Carrés des nombres impairs
