@@ -35,13 +35,11 @@
 * Par exemple, pour `n = 5`, les nombres utilisés sont `1, 3, 5, 7, 9` et leurs carrés sont `1, 9, 25, 49, 81`.
 * La complexité de cette solution est **O(n)** et la mémoire supplémentaire utilisée pour le tableau est **O(n)**.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183200.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 192417.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 192426.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 192445.png" />
 
 
 # Exercice 4 — Classe utilitaire pour les tableaux de doubles
@@ -54,13 +52,17 @@
 * Si les conditions ne sont pas respectées, la méthode `somme` renvoie `null`. Sinon, elle additionne les éléments correspondants des deux tableaux.
 * Les opérations de parcours des tableaux sont réalisées avec des boucles imbriquées.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183300.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 192504.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 192529.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 192552.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 183000.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 193142.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 193149.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-10 193203.png" />
 
 
 # Exercice 5 — Rotation en place d’une matrice N×N
